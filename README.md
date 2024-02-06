@@ -67,7 +67,7 @@ Publications
 
 3.	H., Hemanth; Mewada, R.; Mallajosyula*, S. S. Capturing Charge and Size Effects of Ions at the Graphene–Electrolyte Interface Using Polarizable Force Field Simulations. Nanoscale Adv. 2023, 5 (3), 796–804. https://doi.org/10.1039/D2NA00733A.
 
-4.	H., Hemanth; Mallajosyula*, S. S. Unveiling DNA Translocation in Pristine Graphene Nanopores: Understanding Pore Clogging via Polarizable Simulations. ACS Appl. Mater. Interfaces. 2024, 15(47), 55095-55108. https://doi.dorg/10.1021/acsami.3c12262. 
+4.	H., Hemanth; Mallajosyula*, S. S. Unveiling DNA Translocation in Pristine Graphene Nanopores: Understanding Pore Clogging via Polarizable Simulations. ACS Appl. Mater. Interfaces. 2024, 15(47), 55095-55108. https://doi.org/10.1021/acsami.3c12262. 
 
 5.	H., Hemanth; Mallajosyula*, S. S. Graphene: From Solid Support for Nucleobase Assisted Self-Assemblies to Functional Material for DNA Sequencing. Accepted for Publication at The Journal of Physical Chemistry C as a review article.
 
