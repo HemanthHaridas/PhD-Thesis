@@ -1,7 +1,4 @@
 ### Polarizable Simulations of Nucleobase-Graphene Interactions and Electrolyte Effects: Insights into Nano-Bio Interfaces
-<p style="text-align:center;"> Hemanth H. </p> 
-
-<p style="text-align:justify;">
 
 In 2010, three research groups independently demonstrated that graphene membranes can be employed to detect DNA translocations.[1–3] The procedure involved a fluid cell with a graphene membrane at the center, and the DNA is then driven through the nanopore via electrophoresis. Molecular Dynamics simulations by Aksimentiev and coworkers demonstrated that graphene membranes of suitable thickness can “in-principle” identify the individual nucleobases in an ssDNA strand as it translocates through the nanopore.[4] Their simulation suggested that the dynamics is largely driven by the non-covalent interactions between the nucleobases and the graphene surface, where they observed the ssDNA to initially fall onto the graphene surface, and then undergo a 2D diffusion over the surface in the process of translocation. However, experimental studies by Dekker and coworkers presented a different picture, where they observed the nanopore to suffer from very severe pore-clogging when a pristine graphene surface was employed.[5] They noted that either (i) a high external bias, or (ii) non-covalent surface modifiers were required to facilitate the translocation of ssDNA. Thus, we note that there is a difference in agreement between the experimental results and the MD simulations.
 
@@ -70,8 +67,8 @@ Publications
 
 3.	H., Hemanth; Mewada, R.; Mallajosyula*, S. S. Capturing Charge and Size Effects of Ions at the Graphene–Electrolyte Interface Using Polarizable Force Field Simulations. Nanoscale Adv. 2023, 5 (3), 796–804. https://doi.org/10.1039/D2NA00733A.
 
-4.	H., Hemanth; Mallajosyula*, S. S. Unveiling DNA Translocation in Pristine Graphene Nanopores: Understanding Pore Clogging via Polarizable Simulations. ACS Appl. Mater. Interfaces. 2024
+4.	H., Hemanth; Mallajosyula*, S. S. Unveiling DNA Translocation in Pristine Graphene Nanopores: Understanding Pore Clogging via Polarizable Simulations. ACS Appl. Mater. Interfaces. 2024, 15(47), 55095-55108. https://doi.dorg/10.1021/acsami.3c12262. 
 
-5.	H., Hemanth; Mallajosyula*, S. S. Graphene: From Solid Support for Nucleobase Assisted Self-Assemblies to Functional Material for DNA Sequencing.
+5.	H., Hemanth; Mallajosyula*, S. S. Graphene: From Solid Support for Nucleobase Assisted Self-Assemblies to Functional Material for DNA Sequencing. Accepted for Publication at The Journal of Physical Chemistry C as a review article.
 
 </p>
